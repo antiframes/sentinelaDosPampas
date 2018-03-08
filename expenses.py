@@ -22,4 +22,3 @@ def get_month(dep,depid,mon,yr):
     
     
 #get_month(zanchin.dep,str(zanchin.id),'1','2017')
-get_month('marcelvanhattem','492',1,2013)

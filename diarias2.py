@@ -86,7 +86,7 @@ for d in range(len(deps)):
 	#Contar número de passagens aéreas
         numpas = 0
         if (grdvwBilhetes_pos>-1):
-            table2 = tree.xpath('(//table[@class="tablediarias"])[3]//tr')
+            table2 = tree.xpath('(//table[@class="tablediarias"])['+str(grdvwBilhetes_pos)+']//tr')
             numpas=len(table2)-1
         numpassagens.append(numpas)
 

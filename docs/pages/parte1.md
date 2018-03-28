@@ -5,7 +5,7 @@
 Já se passaram 3 anos da legislatura atual e, portanto, temos dados suficientes para comparar como anda o desempenho de cada deputado. Para isso, está lançada a Operação Sentinela dos Pampas, cuja primeira fase será responsável por verificar **o quanto andam gastando nossos deputados**. Os resultados a seguir compreendem o período de janeiro de 2015 a dezembro de 2017 e **estão disponíveis na íntegra [aqui](https://public.tableau.com/profile/giovani.de.quadros#!/vizhome/GastosALRS/Destaques)**.
 
 
-![ ]({{ "/assets/1.png" | absolute_url }})
+![ ]({{ "/assets/img/1.png" | absolute_url }})
 
 Cada deputado tem direito a uma cota para exercício da atividade, isto é, há uma certa quantidade de dinheiro disponível para o deputado gastar em diversas categorias. A despesa que mais pesou no orçamento durante esses 3 anos de legislatura foi a **INDENIZAÇÃO POR USO DE VEÍCULO PARTICULAR EM SERVIÇO**. Quase **9 milhões de reais** foram destinados somente para pagar essa despesa. O motivo disso será investigado mais a fundo nas próximas etapas da Operação.
 
@@ -26,7 +26,7 @@ Agora, vamos analisar cada deputado individualmente. Os gráficos a seguir são 
 * Vilmar Zanchin: R$15.589/mês
 
 
-![ ]({{ "/assets/all.jpg" | absolute_url }})
+![ ]({{ "/assets/img/all.jpg" | absolute_url }})
 
 Os gráficos a seguir mostrarão os destaques para as principais categorias, isto é, os 5 que mais gastaram e os 5 que menos gastaram, além de outros deputados que tiveram um desempenho diferente da média.
 
@@ -37,39 +37,39 @@ As categorias Indenização por Uso de Veículo Particular em Serviço e Combust
 **Indenização por uso de veículo Particular em Serviço** - O deputado Edu Oliveira obteve um gasto geral baixo, pois permaneceu na Assembleia por apenas um ano. Os 5 deputados que mais gastaram nessa categoria pagaram, mensalmente, quase 7 mil reais cada. Em 3 anos, Ibsen Pinheiro gastou apenas 13 mil.
 
 
-![ ]({{ "/assets/ind.png" | absolute_url }})
+![ ]({{ "/assets/img/ind.png" | absolute_url }})
 
 
 **Combustível** - Luis Augusto Lara gasta, por mês, 10 vezes o que Ibsen Pinheiro gasta.
 
-![ ]({{ "/assets/2.png" | absolute_url }})
+![ ]({{ "/assets/img/2.png" | absolute_url }})
 
 **Requisições de impressos**: Embora Liziane Bayer tenha uma média mensal relativamente baixa, ela acumula quase o dobro de gastos que Nelsinho Metalúrgico, o segundo colocado. No centro do gráfico, temos deputados que gastaram mensalmente um valor acima da média, o que indica que foram feitas menos requisições, mas a um preço médio maior.
 
-![ ]({{ "/assets/3.png" | absolute_url }})
+![ ]({{ "/assets/img/3.png" | absolute_url }})
 Vamos verificar melhor o que está acontecendo: Gilmar Sossella fez apenas uma requisição a um valor relativamente baixo. Pedro Pereira possui a maior média mensal porque fez apenas uma requisição, mas a um valor muito alto. Liziane Bayer e Nelsinho Metalúrgico possuem um gasto total maior por causa da frequência com que usam a cota para esta categoria.
-![ ]({{ "/assets/diff1.png" | absolute_url }})
+![ ]({{ "/assets/img/diff1.png" | absolute_url }})
 
 **Postagens** - Nesta categoria, temos uma considerável diferença de comportamento entre os deputados. Os 5 deputados que mais gastaram com postagens tiveram uma média mensal bem menor que Luis Augusto Lara.
-![ ]({{ "/assets/5.png" | absolute_url }})
+![ ]({{ "/assets/img/5.png" | absolute_url }})
 O motivo é semelhante ao observado anteriormente: Lara gastou apenas uma vez com postagens, mas a um preço bastante alto em relação aos outros deputados listados neste gráfico. Os 3 deputados que mais gastaram com postagens possuem uma certa frequência nos gastos, com um considerável pico nos meses de dezembro.
 
-![ ]({{ "/assets/diff2.png" | absolute_url }})
+![ ]({{ "/assets/img/diff2.png" | absolute_url }})
 **Débitos Automáticos** - Outro caso fora do padrão. Enquanto alguns deputados tiveram um gasto mínimo, outros acumularam um total enorme, mas com uma média mensal baixa. Além disso, temos Maurício Dziedricki apresentando uma média mensal muito alta, mas um gasto total baixo. Vamos atrás do motivo:
-![ ]({{ "/assets/9.png" | absolute_url }})
+![ ]({{ "/assets/img/9.png" | absolute_url }})
 Comparando os dois que menos gastaram com os dois que mais gastaram, vemos que Gilberto Capoani e Marcel Van Hattem usaram a cota pouquíssimas vezes nos finais de 2015 e 2016. Esse mesmo período representa uma alta nos gastos de Luiz Fernando Mainardi e Frederico Antunes. No final de 2017, temos o único gasto de Maurício Dziedricki, que resultou em uma média mensal tão alta.
-![ ]({{ "/assets/diff3.png" | absolute_url }})
+![ ]({{ "/assets/img/diff3.png" | absolute_url }})
 **Os próximos gráficos mostram os destaques de mais três categorias, mas sem valores que fogem consideravelmente do padrão.**
-![ ]({{ "/assets/4.png" | absolute_url }})
-![ ]({{ "/assets/6.png" | absolute_url }})
-![ ]({{ "/assets/7.png" | absolute_url }})
-![ ]({{ "/assets/8.png" | absolute_url }})
+![ ]({{ "/assets/img/4.png" | absolute_url }})
+![ ]({{ "/assets/img/6.png" | absolute_url }})
+![ ]({{ "/assets/img/7.png" | absolute_url }})
+![ ]({{ "/assets/img/8.png" | absolute_url }})
 
 ## Geral
 
 Esta é a comparação do total de gastos acumulados durante o período estudado (Isto é, substituindo Edu Oliveira, que tem uma média mensal alta, mas só entrou na ALRS em 2017, por Zilá Breitenbach). Os gráficos a seguir comparam o desempenho dos deputados que menos gastaram com os que mais gastaram. Os primeiros acumulam,juntos, um custo de R$0,8mi . Os outros custaram, juntos, R$ 2,8mi no mesmo período de tempo.
 
-![ ]({{ "/assets/maismenos.png" | absolute_url }})
+![ ]({{ "/assets/img/maismenos.png" | absolute_url }})
 
 ## Conclusões
 
@@ -94,7 +94,7 @@ Bom, no primeiro momento, pensei que os dados da Transparência da ALRS estivess
 
 No site da Assembleia Legislativa, os dados estão disponíveis como na figura abaixo: Você seleciona o ano e o mês e o resumo dos gastos do deputado é disponibilizado em uma tabela.
 
-![ ]({{ "/assets/adao.jpg" | absolute_url }})
+![ ]({{ "/assets/img/adao.jpg" | absolute_url }})
 
 Digamos que você queira acessar os dados de novembro de 2017. Para um usuário humano, o correto seria apenas selecionar o mês, clicar em "Pesquisar" e os dados seriam atualizados. Bastante intuitivo, mas queremos obter dados de todos os deputados em todos os meses de 2015 a 2017, **uma tarefa demorada demais para ser realizada humanamente.**
 
@@ -106,7 +106,7 @@ Felizmente, o site da Assembleia disponibiliza os dados de outra forma: A versã
 
 Esse link tem tudo que precisamos. O primeiro item grifado nele é o identificador do deputado. O segundo item é o identificador numérico do deputado. O terceiro é o mês do qual queremos os dados. Mas, se você olhar a imagem abaixo com atenção, vai ver que são apresentados os movimentos do mês de JANEIRO em vez de DEZEMBRO. Por quê? Porque o programador confundiu o padrão dia/mês/ano com o padrão mês/dia/ano. Espero que esse erro não tenha prejudicado alguém.
 
-![ ]({{ "/assets/adao2.jpg" | absolute_url }})
+![ ]({{ "/assets/img/adao2.jpg" | absolute_url }})
 
 Enfim, só precisamos obter os identificadores dos deputados para automatizar a tarefa.
 

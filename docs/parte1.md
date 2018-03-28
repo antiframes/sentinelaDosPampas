@@ -1,6 +1,4 @@
- # Operação Sentinela dos Pampas: Análise de dados da Assembleia Legislativa do RS - Parte 1
- 
- Após algumas semanas estudando Ciência de Dados, estou lançando meu primeiro projeto, me inspirando na [Operação Política Supervisionada] (https://ops.net.br/) e na [Operação Serenata de Amor](https://serenata.ai/): Tirar análises dos dados públicos da Transparência da Assembleia Legislativa do RS.
+Após algumas semanas estudando Ciência de Dados, estou lançando meu primeiro projeto, me inspirando na [Operação Política Supervisionada] (https://ops.net.br/) e na [Operação Serenata de Amor](https://serenata.ai/): Tirar análises dos dados públicos da Transparência da Assembleia Legislativa do RS.
 
 Já se passaram 3 anos da legislatura atual e, portanto, temos dados suficientes para comparar como anda o desempenho de cada deputado. Para isso, está lançada a Operação Sentinela dos Pampas, cuja primeira fase será responsável por verificar **o quanto andam gastando nossos deputados**. Os resultados a seguir compreendem o período de janeiro de 2015 a dezembro de 2017 e **estão disponíveis na íntegra [aqui](https://public.tableau.com/profile/giovani.de.quadros#!/vizhome/GastosALRS/Destaques)**.
 

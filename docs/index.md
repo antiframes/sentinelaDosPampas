@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Operação Sentinela dos Pampas
-tagline: Análise de Dados da Assembleia Legislativa do RS
 description: Análise de Dados da Assembleia Legislativa do RS
 ---
-Em breve
+[Parte 1](pages/parte1.html)

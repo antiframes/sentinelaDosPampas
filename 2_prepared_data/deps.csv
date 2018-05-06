@@ -1,62 +1,55 @@
-dep,id,depparty,depname,fullname
-vilmarzanchin,431,PMDB,Vilmar Zanchin,VILMAR PERIN ZANCHIN
-zenunes,471,PT,Zé Nunes,JOSÉ SIDNEY NUNES DE ALMEIDA
-alvaroboessio,432,PMDB,Álvaro Boessio,ALVARO DAVI BOESSIO 
-anyortiz,464,PPS,Any Ortiz,ANY MACHADO ORTIZ
-cirosimoni,423,PDT,Ciro Simoni,CIRO CARLOS EMERIM SIMONI
-pedroruas,446,PSOL,Pedro Ruas,PEDRO LUIZ FAGUNDES RUAS
-eniobacci,426,PDT,Enio Bacci,ENIO EGON BERGMANN BACCI
-lizianebayer,468,PSB,Liziane Bayer,LIZIANE BAYER DA COSTA
+dep,id,depparty,depname
+vilmarzanchin,431,PMDB,Vilmar Zanchin
+zenunes,471,PT,Zé Nunes
+alvaroboessio,432,PMDB,Álvaro Boessio
+anyortiz,464,PPS,Any Ortiz
+cirosimoni,423,PDT,Ciro Simoni
+pedroruas,446,PSOL,Pedro Ruas
+eniobacci,426,PDT,Enio Bacci
+lizianebayer,468,PSB,Liziane Bayer
 ibsenpinheiro,490,PMDB,Ibsen Pinheiro
-edsonbrum,429,PMDB,Edson Brum,EDSON MEURER BRUM
-adilsontroca,453,PSDB,Adilson Troca,ADILSON TROCA
-adolfobrito,457,PP,Adolfo Brito,ADOLFO JOSE BRITO
-joaoreinelli,445,PV,João Reinelli,JOÃO OTÁVIO REINELLI
-pedropereira,459,PSDB,Pedro Pereira,PEDRO OZORIO PEREIRA
-julianoroso,420,PCdoB,Juliano Roso,JULIANO ROSO
-nelsinhometalurgico,440,PT,Nelsinho Metalúrgico,NELSON LUIZ DA SILVA
-eltonweber,466,PSB,Elton Weber,ELTON ROBERTO WEBER
-luizmainardi,448,PT,Luiz Fernando Mainardi,LUIZ FERNANDO MAINARDI
-eduolivera,519,PSD,Edu Olivera,EDUARDO RAFAEL VIERA OLIVERA
-gilbertocapoani,434,PMDB,Gilberto Capoani,GILBERTO CAPOANI
-manueladavila,419,PCdoB,Manuela d'Ávila,MANUELA PINTO VIEIRA D\\' AVILA
-jefersonfernandes,449,PT,Jeferson Fernandes,JEFERSON OLIVEIRA FERNANDES
-catarina,487,PSB,Catarina Paladini,JOSE ANTONIO JUNIOR FROZZA PALADINI
-silvanacovatti,436,PP,Silvana Covatti,SILVANA MARIA FRANCISCATTO COVATTI
-stelafarias,441,PT,Stela Farias,STELA BEATRIZ FARIAS LOPES
-marlonsantos,421,PDT,Marlon Santos,MARLON ARATOR SANTOS DA ROSA
-adaovillaverde,444,PT,Adão Villaverde,ADAO ROBERTO RODRIGUES VILLAVERDE
-ronaldosantini,452,PTB,Ronaldo Santini,RONALDO SANTINI
-juvircostella,515,PMDB,Juvir Costella,JUVIR COSTELLA
-sergioturra,465,PP,Sérgio Turra,SERGIO BERGONSI TURRA
-miriammarroni,442,PT,Miriam Marroni,MIRIAM PAZ GARCEZ MARRONI
-lucasredecker,460,PSDB,Lucas Redecker,LUCAS BELLO REDECKER
-marcelomoraes,451,PTB,Marcelo Moraes,MARCELO PIRES MORAES
-tarcisiozimmermann,438,PT,Tarcisio Zimmermann,TARCISIO JOÃO ZIMMERMANN
-valdecioliveira,439,PT,Valdeci Oliveira,ANTONIO VALDECI OLIVEIRA DE OLIVEIRA
-tiagosimon,435,PMDB,Tiago Simon,TIAGO CHANAN SIMON
-zilabreitenbach,491,PSDB,Zilá Breitenbach,ZILA MARIA BREITENBACH
-bombeirobianchini,467,PPL,Bombeiro Bianchini,MIGUEL CONSTANTINO ROSSO BIANCHINI
-edegarpretto,447,PT,Edegar Pretto,JOAO EDEGAR PRETTO
-fredericoantunes,456,PP,Frederico Antunes,FREDERICO CANTORI ANTUNES
-joaofischer,458,PP,João Fischer,JOAO ERVINO FISCHER
-altemirtortelli,443,PT,Altemir Tortelli,ALTEMIR ANTONIO TORTELLI
-missionariovolnei,470,PR,Missionário Volnei,VOLNEI DA SILVA ALVES
-mauriciodziedricki,469,PTB,Maurício Dziedricki,MAURICIO ALEXANDRE DZIEDRICKI
-gersonburmann,425,PDT,Gerson Burmann,GERSON BURMANN
-julianabrizola,489,PDT,Juliana Brizola,JULIANA BRIZOLA
-eduardoloureiro,422,PDT,Eduardo Loureiro,EDUARDO DEBACCO LOUREIRO
-gabrielsouza,433,PMDB,Gabriel Souza,GABRIEL VIEIRA DE SOUZA
-luislara,463,PTB,Luis Augusto Lara,LUIS AUGUSTO BARCELLOS LARA
-reginabecker,424,REDE,Regina Becker Fortunati,REGINA MARIA BECKER
-gilmarsossella,418,PDT,Gilmar Sossella,GILMAR SOSSELLA
-sergioperes,454,PRB,Sérgio Peres,SERGIO PERES ALÓS
-aloisioclassmann,450,PTB,Aloísio Classmann,ALOISIO TALSO CLASSMANN
+edsonbrum,429,PMDB,Edson Brum
+adilsontroca,453,PSDB,Adilson Troca
+adolfobrito,457,PP,Adolfo Brito
+joaoreinelli,445,PV,João Reinelli
+pedropereira,459,PSDB,Pedro Pereira
+julianoroso,420,PCdoB,Juliano Roso
+nelsinhometalurgico,440,PT,Nelsinho Metalúrgico
+eltonweber,466,PSB,Elton Weber
+luizmainardi,448,PT,Luiz Fernando Mainardi
+eduolivera,519,PSD,Edu Olivera
+gilbertocapoani,434,PMDB,Gilberto Capoani
+manueladavila,419,PCdoB,Manuela d'Ávila
+jefersonfernandes,449,PT,Jeferson Fernandes
+catarina,487,PSB,Catarina Paladini
+silvanacovatti,436,PP,Silvana Covatti
+stelafarias,441,PT,Stela Farias
+marlonsantos,421,PDT,Marlon Santos
+adaovillaverde,444,PT,Adão Villaverde
+ronaldosantini,452,PTB,Ronaldo Santini
+juvircostella,515,PMDB,Juvir Costella
+sergioturra,465,PP,Sérgio Turra
+miriammarroni,442,PT,Miriam Marroni
+lucasredecker,460,PSDB,Lucas Redecker
+marcelomoraes,451,PTB,Marcelo Moraes
+tarcisiozimmermann,438,PT,Tarcisio Zimmermann
+valdecioliveira,439,PT,Valdeci Oliveira
+tiagosimon,435,PMDB,Tiago Simon
+zilabreitenbach,491,PSDB,Zilá Breitenbach
+bombeirobianchini,467,PPL,Bombeiro Bianchini
+edegarpretto,447,PT,Edegar Pretto
+fredericoantunes,456,PP,Frederico Antunes
+joaofischer,458,PP,João Fischer
+altemirtortelli,443,PT,Altemir Tortelli
+missionariovolnei,470,PR,Missionário Volnei
+mauriciodziedricki,469,PTB,Maurício Dziedricki
+gersonburmann,425,PDT,Gerson Burmann
+julianabrizola,489,PDT,Juliana Brizola
+eduardoloureiro,422,PDT,Eduardo Loureiro
+gabrielsouza,433,PMDB,Gabriel Souza
+luislara,463,PTB,Luis Augusto Lara
+reginabecker,424,REDE,Regina Becker Fortunati
+gilmarsossella,418,PDT,Gilmar Sossella
+sergioperes,454,PRB,Sérgio Peres
+aloisioclassmann,450,PTB,Aloísio Classmann
 marcelvanhattem,492,PP,Marcel Van Hattem
-,,,,VOLMIR JOSE MIKI BREIER
-,,,,MÁRIO JARDEL ALMEIDA RIBEIRO
-,,,,JUNIOR CARLOS PIAIA
-,,,,JORGE CLADISTONE POZZOBOM
-,,,,GERSON LUÍS DE BORBA
-,,,,DIOGENES LUIZ BASEGIO
-,,,,ALEXANDRE POSTAL
